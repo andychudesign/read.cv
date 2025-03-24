@@ -1,0 +1,326 @@
+{
+  "general": {
+    "profilePhoto": "/content/media/profilePhoto.jpg",
+    "username": "andychu.design",
+    "displayName": "Andy Chu",
+    "profession": "Product Designer",
+    "location": null,
+    "pronouns": null,
+    "byline": "Product Designer",
+    "website": "andychu.design",
+    "websiteURL": "http://andychu.design",
+    "about": null,
+    "status": {
+      "text": null,
+      "emoji": null,
+      "timestamp": null
+    },
+    "sectionOrder": [
+      "Projects",
+      "Side Projects",
+      "Exhibitions",
+      "Writing",
+      "Awards",
+      "Features",
+      "Work Experience",
+      "Volunteering",
+      "Education",
+      "Speaking",
+      "Certifications",
+      "Contact",
+      "Teams"
+    ]
+  },
+  "projects": [],
+  "sideProjects": [],
+  "exhibitions": [],
+  "talks": [
+    {
+      "id": "WRfXfA7u5SRq8Nd0n2XL",
+      "year": "2024",
+      "heading": "Industry advisory board",
+      "url": null,
+      "collaborators": [],
+      "description": "Evaluation session for improving course structure and syllabus of the MSc User Experience Design course by share the perspectives as a product designer and an associate mentor.",
+      "attachments": [],
+      "type": "talk",
+      "title": "Industry advisory board",
+      "event": "",
+      "location": "Birmingham City University"
+    },
+    {
+      "id": "xsJRtlL4HxsRWhOooY9e",
+      "year": "2023",
+      "heading": "UX & Product Design Workshops",
+      "url": null,
+      "collaborators": [],
+      "description": "Design workshop with international Masters students about context exploring, problem discovery and testing methodology of product design",
+      "attachments": [],
+      "type": "talk",
+      "title": "UX & Product Design Workshops",
+      "event": "",
+      "location": "Birmingham City University Design Week"
+    },
+    {
+      "id": "RiR2TNUzuEwc0rn3S7cL",
+      "year": "2021",
+      "heading": "Design Education Pattern Change Under Covid",
+      "url": null,
+      "collaborators": [],
+      "description": "An international webinar for sharing strategy and methodology of design education under covid year.",
+      "attachments": [],
+      "type": "talk",
+      "title": "Design Education Pattern Change Under Covid",
+      "event": "",
+      "location": "Birmingham City University International Webinar"
+    },
+    {
+      "id": "SoYFZ6MVUafx7aga6WVv",
+      "year": "2019",
+      "heading": "Design Team Reflective Lectures",
+      "url": null,
+      "collaborators": [],
+      "description": "Develop series of lectures for designer as internal reflection. Evaluate design team ability based on defined problems and difficulties of different projects.",
+      "attachments": [],
+      "type": "talk",
+      "title": "Design Team Reflective Lectures",
+      "event": "",
+      "location": "Mermaid Studios"
+    }
+  ],
+  "writing": [],
+  "awards": [],
+  "features": [],
+  "workExperience": [
+    {
+      "id": "AOtDR0bUCFBt08sajNon",
+      "year": "2022 — Now",
+      "heading": "MySense.ai",
+      "url": null,
+      "collaborators": [],
+      "description": "* Senior Product Designer   \\\n  2023 – Now\\\n  Define product objective and strategy. Specify design direction and deliver UX. Facilitate research, workshops, and arrange qualitative testing.\n\n* UX Designer\\\n  2022 – 2023\\\n  Specify and deliver product functionalities and UX, evaluating product features, and refining the design system.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "",
+      "company": "MySense.ai",
+      "location": "London 🇬🇧"
+    },
+    {
+      "id": "Bc91IBS2vSOg6yR8I0az",
+      "year": "2020 — Now",
+      "heading": "Birmingham City University",
+      "url": null,
+      "collaborators": [],
+      "description": "* Associate Mentor\\\n  Give tutorial to MA and MSc students. Providing lectures and developing design workshops specifically for UX students.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "",
+      "company": "Birmingham City University",
+      "location": "Birmingham 🇬🇧"
+    },
+    {
+      "id": "SPmxOzoHVDjs32ipTYGm",
+      "year": "2020 — 2022",
+      "heading": "Andy Chu Design Limited",
+      "url": null,
+      "collaborators": [],
+      "description": "* Product Designer & Consultant\\\n  Exploring UX improvements and new opportunities for businesses. Delivering product functionality with Jumar development team and providing design consultation with Futurilla Ltd.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "",
+      "company": "Andy Chu Design Limited",
+      "location": "Birmingham 🇬🇧"
+    },
+    {
+      "id": "4TEfKcBfvUc5BfHx1VUc",
+      "year": "2018 — 2020",
+      "heading": "Mermaid Studios",
+      "url": null,
+      "collaborators": [],
+      "description": "* UX Designer\\\n  Develop design thinking workshops with clients to identify new product opportunities, deliver UX for products, and establish design culture to the team.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "",
+      "company": "Mermaid Studios",
+      "location": "Berlin 🇩🇪"
+    }
+  ],
+  "volunteering": [],
+  "education": [
+    {
+      "id": "J8X0nzXYj4QtsGAmhBzx",
+      "year": "2017 — 2018",
+      "heading": "MA Visual Communication (User Experience)",
+      "url": null,
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "education",
+      "degree": "",
+      "school": "MA Visual Communication (User Experience)",
+      "location": "Birmingham City University"
+    },
+    {
+      "id": "MnXU9I3qSwlDadLKMae5",
+      "year": "2016 — 2017",
+      "heading": "BA (Hons) Visual Communication",
+      "url": null,
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "education",
+      "degree": "",
+      "school": "BA (Hons) Visual Communication",
+      "location": "Birmingham City University"
+    }
+  ],
+  "certifications": [],
+  "contact": [],
+  "allCollections": [
+    {
+      "name": "Work Experience",
+      "items": [
+        {
+          "id": "AOtDR0bUCFBt08sajNon",
+          "year": "2022 — Now",
+          "heading": "MySense.ai",
+          "url": null,
+          "collaborators": [],
+          "description": "* Senior Product Designer   \\\n  2023 – Now\\\n  Define product objective and strategy. Specify design direction and deliver UX. Facilitate research, workshops, and arrange qualitative testing.\n\n* UX Designer\\\n  2022 – 2023\\\n  Specify and deliver product functionalities and UX, evaluating product features, and refining the design system.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "",
+          "company": "MySense.ai",
+          "location": "London 🇬🇧"
+        },
+        {
+          "id": "Bc91IBS2vSOg6yR8I0az",
+          "year": "2020 — Now",
+          "heading": "Birmingham City University",
+          "url": null,
+          "collaborators": [],
+          "description": "* Associate Mentor\\\n  Give tutorial to MA and MSc students. Providing lectures and developing design workshops specifically for UX students.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "",
+          "company": "Birmingham City University",
+          "location": "Birmingham 🇬🇧"
+        },
+        {
+          "id": "SPmxOzoHVDjs32ipTYGm",
+          "year": "2020 — 2022",
+          "heading": "Andy Chu Design Limited",
+          "url": null,
+          "collaborators": [],
+          "description": "* Product Designer & Consultant\\\n  Exploring UX improvements and new opportunities for businesses. Delivering product functionality with Jumar development team and providing design consultation with Futurilla Ltd.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "",
+          "company": "Andy Chu Design Limited",
+          "location": "Birmingham 🇬🇧"
+        },
+        {
+          "id": "4TEfKcBfvUc5BfHx1VUc",
+          "year": "2018 — 2020",
+          "heading": "Mermaid Studios",
+          "url": null,
+          "collaborators": [],
+          "description": "* UX Designer\\\n  Develop design thinking workshops with clients to identify new product opportunities, deliver UX for products, and establish design culture to the team.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "",
+          "company": "Mermaid Studios",
+          "location": "Berlin 🇩🇪"
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "items": [
+        {
+          "id": "J8X0nzXYj4QtsGAmhBzx",
+          "year": "2017 — 2018",
+          "heading": "MA Visual Communication (User Experience)",
+          "url": null,
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "education",
+          "degree": "",
+          "school": "MA Visual Communication (User Experience)",
+          "location": "Birmingham City University"
+        },
+        {
+          "id": "MnXU9I3qSwlDadLKMae5",
+          "year": "2016 — 2017",
+          "heading": "BA (Hons) Visual Communication",
+          "url": null,
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "education",
+          "degree": "",
+          "school": "BA (Hons) Visual Communication",
+          "location": "Birmingham City University"
+        }
+      ]
+    },
+    {
+      "name": "Speaking",
+      "items": [
+        {
+          "id": "WRfXfA7u5SRq8Nd0n2XL",
+          "year": "2024",
+          "heading": "Industry advisory board",
+          "url": null,
+          "collaborators": [],
+          "description": "Evaluation session for improving course structure and syllabus of the MSc User Experience Design course by share the perspectives as a product designer and an associate mentor.",
+          "attachments": [],
+          "type": "talk",
+          "title": "Industry advisory board",
+          "event": "",
+          "location": "Birmingham City University"
+        },
+        {
+          "id": "xsJRtlL4HxsRWhOooY9e",
+          "year": "2023",
+          "heading": "UX & Product Design Workshops",
+          "url": null,
+          "collaborators": [],
+          "description": "Design workshop with international Masters students about context exploring, problem discovery and testing methodology of product design",
+          "attachments": [],
+          "type": "talk",
+          "title": "UX & Product Design Workshops",
+          "event": "",
+          "location": "Birmingham City University Design Week"
+        },
+        {
+          "id": "RiR2TNUzuEwc0rn3S7cL",
+          "year": "2021",
+          "heading": "Design Education Pattern Change Under Covid",
+          "url": null,
+          "collaborators": [],
+          "description": "An international webinar for sharing strategy and methodology of design education under covid year.",
+          "attachments": [],
+          "type": "talk",
+          "title": "Design Education Pattern Change Under Covid",
+          "event": "",
+          "location": "Birmingham City University International Webinar"
+        },
+        {
+          "id": "SoYFZ6MVUafx7aga6WVv",
+          "year": "2019",
+          "heading": "Design Team Reflective Lectures",
+          "url": null,
+          "collaborators": [],
+          "description": "Develop series of lectures for designer as internal reflection. Evaluate design team ability based on defined problems and difficulties of different projects.",
+          "attachments": [],
+          "type": "talk",
+          "title": "Design Team Reflective Lectures",
+          "event": "",
+          "location": "Mermaid Studios"
+        }
+      ]
+    }
+  ]
+}
